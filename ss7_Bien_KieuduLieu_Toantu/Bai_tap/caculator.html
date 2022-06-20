@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>caculator</title>
+</head>
+<body>
+    <h1><b>Caculator</b></h1>
+    <table>
+        <tr>
+            <td colspan="2">
+                <input type="number" id="num1">
+            </td>
+            <td colspan="2">
+                <input type="number" id="num2">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <input type="submit" onclick="cong()" value="Addition(+)">
+            </td>
+            <td>
+                <input type="submit" onclick="tru()" value="Subtraction(-)">
+            </td>
+            <td>
+                <input type="submit" onclick="nhan()" value="Multiplication(X)">
+            </td>
+            <td>
+                <input type="submit" onclick="chia()" value="Division(/)">
+            </td>
+        </tr>
+    </table>
+    <p>
+        Result Division : <span id="hvc"></span>
+    </p>
+</body>
+    <script>
+        function cong() {
+            let num1=parseFloat(document.getElementById("num1").value);
+            let num2=parseFloat(document.getElementById("num2").value);
+            let cong=num1+num2;
+            document.getElementById("hvc").innerText=cong;}
+        function tru() {
+            let num1=parseFloat(document.getElementById("num1").value);
+            let num2=parseFloat(document.getElementById("num2").value);
+            let tru=num1-num2;
+            document.getElementById("hvc").innerText=tru;}
+        function nhan() {
+            let num1=parseFloat(document.getElementById("num1").value);
+            let num2=parseFloat(document.getElementById("num2").value);
+            let nhan=num1*num2;
+            document.getElementById("hvc").innerText=nhan;}
+        function chia() {
+            let num1=parseFloat(document.getElementById("num1").value);
+            let num2=parseFloat(document.getElementById("num2").value);
+            let chia=num1/num2;
+            document.getElementById("hvc").innerText=chia;}
+    </script>
+</html>
