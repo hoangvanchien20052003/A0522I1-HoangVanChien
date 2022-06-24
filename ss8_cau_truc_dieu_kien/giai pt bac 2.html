@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>giaiptbac2</title>
+</head>
+<body>
+    <script>
+        let a = parseFloat(prompt("Nhập a:"));
+        let b = parseFloat(prompt("Nhập b:"));
+        let c = parseFloat(prompt("Nhập c:"));
+        let d = b*b-4*a*c;
+        let e = (-b)/(2*a);
+        if (d>0){
+            let x1=(b*b-Math.sqrt(d))/(2*a);
+            let x2=(b*b+Math.sqrt(d))/(2*a);
+            alert("Pt có 2 nghiệm phân biệt: "+"x1="+x1 +" và "+ "x2="+x2);
+        }
+        else if (d<0){
+            alert("Pt vô nghiệm");
+        }
+        else
+            alert("Pt có 1 nghiệm duy nhất:" +e);
+    </script>
+</body>
+</html>

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>thuethunhapcanhan</title>
+</head>
+<body>
+    <script>
+        let a = parseInt(prompt("Nhập thu thập tính thuế:"));
+        if (a<=5000000){
+            alert("Số thuế phải nộp : "+a*5/100+" VND")
+        }
+        else if (a>5000000&&a<=10000000){
+            alert("Số thuế phải nộp : "+a*10/100+" VND")
+        }
+        else if (a>10000000&&a<=18000000){
+            alert("Số thuế phải nộp : "+a*15/100+" VND")
+        }
+        else if (a>18000000&&a<=32000000){
+            alert("Số thuế phải nộp : "+a*20/100+" VND")
+        }
+        else if (a>32000000&&a<=52000000){
+            alert("Số thuế phải nộp : "+a*25/100+" VND")
+        }
+        else if (a>52000000&&a<=80000000){
+            alert("Số thuế phải nộp : "+a*30/100+" VND")
+        }
+        else
+            alert("Số thuế phải nộp : "+a*35/100+" VND")
+    </script>
+</body>
+</html>

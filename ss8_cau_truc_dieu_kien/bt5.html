@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>bt5</title>
+</head>
+<body>
+    <script>
+        let a = parseInt(prompt("Điểm bài kiểm tra:"));
+        let b = parseInt(prompt("Điểm thi giữa kỳ:"));
+        let c = parseInt(prompt("Điểm thi cuối kỳ:"));
+        let tbm = (a+b*2+c*3)/6
+        if (tbm<3.5)
+            document.write("Học lực yếu");
+        else if (tbm<5)
+            document.write("Học lực trung bình");
+        else if (tbm<8)
+            document.write("Học lực khá");
+        else
+            document.write("Học lực giỏi");
+    </script>
+</body>
+</html>

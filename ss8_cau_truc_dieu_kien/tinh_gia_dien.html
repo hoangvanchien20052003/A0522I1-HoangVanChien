@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>tinh gia dien</title>
+</head>
+<body>
+    <script>
+        let a = parseFloat(prompt("Nhập số kWh sử dụng : "));
+        if (a>0&&a<=50){
+            alert("Số tiền cẩn phải trả là: " +a*1678 + " VND");
+        }
+        else if (a>50&&a<=100){
+            alert("Số tiền cần phải trả là: " +a*1.734 + " VND");
+        }
+        else if (a>100&&a<=200){
+            alert("Số tiền cần phải trả là: " +a*2.014 + " VND");
+        }
+        else if (a>200&&a<=300){
+            alert("Số tiền cần phải trả là: " + a * 2.536 + " VND");
+        }
+        else if (a>300&&a<=400){
+            alert("Số tiền cần phải trả là: " + a * 2.834 + " VND");
+        }
+        else
+            alert("Số tiền cần phải trả là: " + a * 2.927 + " VND");
+    </script>
+
+</body>
+</html>
