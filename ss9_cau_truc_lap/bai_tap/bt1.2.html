@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>b1.2</title>
+</head>
+<body>
+    <script>
+        let k = parseInt(prompt("Nhập số k:"))
+        let a=0;
+        let b=1;
+        let c;
+        document.write(a.toString()+",");
+        document.write(b+",");
+        for(let i=1;i<=k-2;i++){
+            c=a+b;
+            document.write(c+ "," );
+            a=b;
+            b=c;
+        }
+    </script>
+</body>
+</html>
