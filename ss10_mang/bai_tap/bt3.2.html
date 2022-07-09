@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>bt3.2</title>
+</head>
+<body>
+    <script>
+        let a = [];
+        let dem = 0;
+        for(i = 0; i < 5; i++){
+            a[i] = prompt();
+        }
+        for(j = 0; j < a.length; j++) {
+            if (a[j] >= 0 && a[j] <= 9) {
+                dem++
+            }
+        }
+        document.write("Có " + dem + " số ký tự số trong mảng")
+    </script>
+</body>
+</html>

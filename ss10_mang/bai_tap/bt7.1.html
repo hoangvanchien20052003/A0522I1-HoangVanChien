@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>bt7.1</title>
+</head>
+<body>
+    <script>
+        let number = [];
+        for(i=0;i<10;i++) {
+            number[i] = parseInt(prompt());
+        }
+        let V = parseInt(prompt("Nhập các số nguyên V:"))
+        if(number.indexOf(V) !==-1){
+            document.write(V + " thuộc mảng");
+            number.splice(number.indexOf(V),1);
+        }
+        else
+            document.write(V + " không thuộc mảng")
+        document.write("<br>")
+        document.write(number)
+    </script>
+</body>
+</html>

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>bt8.1</title>
+</head>
+<body>
+    <script>
+        let number = [];
+        for(i=0;i<10;i++){
+            number[i]=parseInt(prompt())
+        }
+        document.write("Dãy số trước khi sắp xếp: " + number);
+        number.sort(function (a,b) {
+            return b - a;
+
+        })
+        document.write("<br>")
+        document.write("Dãy số sau khi sắp xếp theo thứ tự giảm dần: " + number);
+    </script>
+</body>
+</html>

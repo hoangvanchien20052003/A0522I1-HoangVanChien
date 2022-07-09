@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>bt3.1</title>
+</head>
+<body>
+    <script>
+        let number = [];
+        let tong = 0;
+        let dem = 0;
+        for(i=0; i < 3; i++){
+            number[i]=parseInt(prompt())
+        }
+        let max = number[0];
+        for(j=0; j < number.length; j++) {
+            if (number[j] > max){
+                max = number[j]
+            }
+        }
+        for(k=0; k < number.length; k++){
+            tong = tong + number[k]
+            dem++
+        }
+        let tbc = tong/dem
+        document.write("Phần tử có giá trị lớn nhất trong mảng là: " + max)
+        document.write("<br>")
+        document.write("Giá trị trung bình của các phần tử trong mảng là: " + tbc)
+    </script>
+</body>
+</html>

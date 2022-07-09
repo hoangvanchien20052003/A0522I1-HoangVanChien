@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>bt2.1</title>
+</head>
+<body>
+    <script>
+        let number = [1,2,5,8,6,12,30,50,0,40]
+        let max = number[0];
+        let i;
+        for(i = 0; i < number.length; i++){
+            if(number[i] > max){
+                max = number[i]
+            }
+        }
+        document.write("Phần tử có giá trị lớn nhất trong mảng là: " + max + ",vị trí của phần tử đó là: " + number.indexOf(max))
+    </script>
+</body>
+</html>
