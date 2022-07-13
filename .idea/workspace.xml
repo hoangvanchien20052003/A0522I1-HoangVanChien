@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="07705e94-b88b-4dcc-aeb5-da6af0669f27" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ss11_ham/bai_tap/bt1.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss11_ham/bai_tap/bt2.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss11_ham/bai_tap/bt2.2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss11_ham/bai_tap/bt3.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss11_ham/bai_tap/bt3.2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss11_ham/bai_tap/bt4.2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss11_ham/bai_tap/bt5.2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss11_ham/bai_tap/bt6.2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss11_ham/bai_tap/bt7.2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss11_ham/bai_tap/bt8.2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss11_ham/bai_tap/bt9.2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss11_ham/bai_tap/feet_and_meter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss11_ham/bai_tap/ham_kiem_tra_so_nguyen_to.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aa.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss10_mang/bai_tap/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss10_mang/bai_tap/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss7_Bien_KieuduLieu_Toantu/su dung toan tu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9_cau_truc_lap/bai_tap/bt4.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss9_cau_truc_lap/bai_tap/bt4.1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9_cau_truc_lap/bai_tap/bt5.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss9_cau_truc_lap/bai_tap/bt5.1.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2ACrPt4laSRGUM5E1muKh6FZDHA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ss9_cau_truc_lap/bai_tap/bai8.1.html" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07705e94-b88b-4dcc-aeb5-da6af0669f27" name="Default Changelist" comment="" />
+      <created>1654524387018</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654524387018</updated>
+      <workItem from="1654524389733" duration="70000" />
+      <workItem from="1654853893068" duration="120000" />
+      <workItem from="1654854023675" duration="1261000" />
+      <workItem from="1654858352921" duration="308000" />
+      <workItem from="1654861723292" duration="7911000" />
+      <workItem from="1655117130148" duration="81000" />
+      <workItem from="1655117272368" duration="7204000" />
+      <workItem from="1655129706982" duration="305000" />
+      <workItem from="1655290482284" duration="6615000" />
+      <workItem from="1655311064875" duration="543000" />
+      <workItem from="1655311772911" duration="1124000" />
+      <workItem from="1655369838985" duration="1954000" />
+      <workItem from="1655383472376" duration="3369000" />
+      <workItem from="1655463281404" duration="5036000" />
+      <workItem from="1655713782738" duration="470000" />
+      <workItem from="1655722611760" duration="6445000" />
+      <workItem from="1655897508623" duration="9643000" />
+      <workItem from="1656068388139" duration="9720000" />
+      <workItem from="1656327161843" duration="4088000" />
+      <workItem from="1656500091593" duration="10219000" />
+      <workItem from="1656673000462" duration="10894000" />
+      <workItem from="1656933205979" duration="5208000" />
+      <workItem from="1657104607731" duration="11165000" />
+      <workItem from="1657277608311" duration="1075000" />
+      <workItem from="1657279428431" duration="1793000" />
+      <workItem from="1657281245528" duration="1360000" />
+      <workItem from="1657284272988" duration="50000" />
+      <workItem from="1657284349953" duration="137000" />
+      <workItem from="1657415372129" duration="14000" />
+      <workItem from="1657536779771" duration="12133000" />
+      <workItem from="1657709079014" duration="2062000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="588" y="234" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1656501429966">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="588" y="234" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1656501429966" />
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1656506708776">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1656506708776" />
+    <state x="578" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1655728744345">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="578" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1655728744345" />
+    <state x="357" y="203" key="run.anything.popup" timestamp="1657542191328">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="357" y="203" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1657542191328" />
+    <state x="431" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1654868460380">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="185" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1654868460380" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/ss10_mang/bai_tap/bt9.1.html</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

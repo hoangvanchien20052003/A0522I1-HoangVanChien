@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>hàm kiểm tra số nguyên tố</title>
+</head>
+<body>
+    <script>
+        function isprime(number) {
+            let dem = 0;
+            for(i=1;i<=number;i++){
+                if(number%i==0){
+                    dem++
+                }
+            }
+            if(dem==2){
+                document.write(number+" là số nguyên tố")
+            }
+            else
+                document.write(number+" không phải là số nguyên tố")
+
+        }
+        isprime(parseInt(prompt("Nhập số cần kiểm tra:")));
+    </script>
+
+</body>
+</html>

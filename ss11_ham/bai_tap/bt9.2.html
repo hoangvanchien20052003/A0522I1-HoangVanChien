@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>bt9.2</title>
+</head>
+<body>
+    <script>
+        function arr(str) {
+            let dem=0;
+            let do_dai=parseInt(prompt("Nhập độ dài của mảng: "));
+            let a = [];
+            for(let i=0;i<do_dai;i++){
+                a[i] = prompt("Nhập các ký tự của mảng: ");
+            }
+            for(let j=0;j<a.length;j++){
+                if(str==a[j]){
+                    dem++
+                }
+            }
+            if(dem>0){
+                return dem;
+            }
+            else
+                return -1
+        }
+        alert(arr(prompt("Nhập kí tự bất kỳ: ")));
+    </script>
+</body>
+</html>

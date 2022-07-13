@@ -6,9 +6,11 @@
 </head>
 <body>
     <script>
-        var arr = [1, 66, 20];
-        arr.length = 0;
-        console.log(arr[0]);
+        var obj= { length:20, height:35, }
+        if('breadth' in obj === false) {
+            obj.breadth = 12;
+        }
+        console.log(obj.breadth);
     </script>
 </body>
 </html>
